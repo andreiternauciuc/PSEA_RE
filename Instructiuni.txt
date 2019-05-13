@@ -1,3 +1,13 @@
+Pasi ce trebuie realizati:
+
 1. Cloneaza acest repository pe calculatorul local, utilizand Git Bash sau SourceTree.
 2. Creeaza un branch nou, cu numele tau (ex: Ion Popescu > nume branch: ionpopescu)
-3. 
+3. Creeaza un screenshot al calculatorului de pe care lucrezi, cu fereastra de Git Bash sau SourceTree in care ai lucrat pana acum. Copiaza-l in zona repo-ului clonat (pe calculatorul local).
+4. Salveaza modificarile branch-ului (commit; optional, cu comentarii).
+5. Incarca modificarile acestui branch inapoi pe GitHub (atentie sa NU suprascrii branch-ul Master).
+6. (Optional) Verifica in browser daca modificarile facute (noul branch si screenshotul aferent) apar.
+7. Intra pe CVUPT la zona de Rezolvare a laboratorului practic (https://cv.upt.ro/mod/assign/view.php?id=47659), si trece URL-ul din browser al branch-ului tau.
+
+ALTERNATIV:
+
+Daca in timpul lucrului, intampini probleme pe care nu le poti rezolva, realizeaza un document in care sa pui screenshoturi cu ceea ce ai reusit sa faci si cu erorile intalnite, si incarca acest document in locul URL-ului de pe GitHub.
