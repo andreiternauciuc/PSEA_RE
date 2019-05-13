@@ -1,0 +1,2 @@
+1. Cloneaza acest repository pe calculatorul local, utilizand Git Bash sau SourceTree.
+2. Creeaza un branch nou.
